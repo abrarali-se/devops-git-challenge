@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploying from development"
+echo "Deploying from development and staging"
