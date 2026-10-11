@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploying version 1"
+echo "Deploying from staging"
